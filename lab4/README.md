@@ -40,7 +40,7 @@
 
 Номер особенного узла с ____ распределением 2
 
-![model](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/model1.png)
+![model](https://github.com/DuongAng/Modeling_itmo/blob/master/lab4/model1.png)
 
 `p10` = 0.2
 
@@ -64,17 +64,17 @@
 
 ### [Замкнутая модель, второй узел распределён по эрлангу](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/наша%20модель%20Замкнутая%20Эрланг.gps)
 
-![4_1_erl](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/4_1_erl.png)
+![4_1_erl](https://github.com/DuongAng/Modeling_itmo/blob/master/lab4/4_1_erl.png)
 
-![4_1_erl_compare](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/4_1_erl_compare.png)
+![4_1_erl_compare](https://github.com/DuongAng/Modeling_itmo/blob/master/lab4/4_1_erl_compare.png)
 
 Как мы видим, критическая точка достигается при $M \in [130, 150]$
 
 ### [Замкнутая модель, второй узел распределён по гиперэксп.](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/наша%20модель%20Замкнутая%20Гипер.gps)
 
-![4_1_hyper](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/4_1_hyper.png)
+![4_1_hyper](https://github.com/DuongAng/Modeling_itmo/blob/master/lab4/4_1_hyper.png)
 
-![4_1_hyper_compare](https://raw.githubusercontent.com/ta4ilka69/simulation-labs/main/lab4/4_1_hyper_compare.png)
+![4_1_hyper_compare](https://github.com/DuongAng/Modeling_itmo/blob/master/lab4/4_1_hyper_compare.png)
 
 Как мы видим, критическая точка достигается при $M = 130$
 

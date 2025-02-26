@@ -8,6 +8,8 @@
 
 по дисциплине
 "Моделирование"
+
+Вариант 2/2
 </div>
 
 <div align="right" style="margin-top: 50px;">
